@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SharedPreferencesHilt</string>
+    <string name="MessageCount">Número de veces que has ingresado a la aplicación</string>
+</resources>
